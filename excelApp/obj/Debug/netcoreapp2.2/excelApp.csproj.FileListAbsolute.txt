@@ -1,0 +1,15 @@
+C:\Users\ben burak\source\repos\excelApp\excelApp\bin\Debug\netcoreapp2.2\excelApp.deps.json
+C:\Users\ben burak\source\repos\excelApp\excelApp\bin\Debug\netcoreapp2.2\excelApp.runtimeconfig.json
+C:\Users\ben burak\source\repos\excelApp\excelApp\bin\Debug\netcoreapp2.2\excelApp.runtimeconfig.dev.json
+C:\Users\ben burak\source\repos\excelApp\excelApp\bin\Debug\netcoreapp2.2\excelApp.dll
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.csprojAssemblyReference.cache
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.RazorAssemblyInfo.cache
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.RazorAssemblyInfo.cs
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.AssemblyInfoInputs.cache
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.AssemblyInfo.cs
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.RazorTargetAssemblyInfo.cache
+C:\Users\ben burak\source\repos\excelApp\excelApp\bin\Debug\netcoreapp2.2\excelApp.pdb
+C:\Users\ben burak\source\repos\excelApp\excelApp\bin\Debug\netcoreapp2.2\excelApp.xml
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.dll
+C:\Users\ben burak\source\repos\excelApp\excelApp\obj\Debug\netcoreapp2.2\excelApp.pdb
